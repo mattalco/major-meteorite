@@ -15,7 +15,7 @@ import {
   XMarkIcon,
 } from "@heroicons/react/24/outline";
 import { ChevronDownIcon } from "@heroicons/react/20/solid";
-import { stuff } from "../utils/analytics";
+import stuff from "../utils/analytics";
 
 const solutions = [
   {
